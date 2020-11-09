@@ -6,4 +6,5 @@ snapshots and the like.
 J.P.
 # How to Compile 
 _To-Do_
-# How to contribute.__Simply clone and add!__
+# How to contribute.
+__Simply clone and add!__
